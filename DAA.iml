@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/week2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/week2/binary-search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/week2/first-bad-version" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week3/LinkedListCycle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week3/MergeTwoSortedLists" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
